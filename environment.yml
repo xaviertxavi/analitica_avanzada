@@ -1,8 +1,9 @@
-name: bonmin_env
+name: myenv
 channels:
   - conda-forge
 dependencies:
   - python=3.10
   - pyomo
-  - bonmin
+  - ipopt
   - ipykernel
+
